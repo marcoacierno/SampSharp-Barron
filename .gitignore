@@ -183,3 +183,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 env/
+src/.nuget/
